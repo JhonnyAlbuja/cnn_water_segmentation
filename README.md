@@ -2,7 +2,7 @@
 Código fuente para la segmentación de cuerpos de agua en imágenes satelitales (PlanetScope) mediante U-Net. 
 
 ## Descripción
-El sistema procesa imágenes satelitales mediante una estrategia de *Tiling* (ventanas deslizantes), permitiendo cuantificar la superficie de la laguna de Yahuarcocha con alta precisión y realizar un análisis multitemporal (2016-2025).
+El sistema procesa imágenes satelitales mediante una estrategia de *Tiling* (ventanas deslizantes), permitiendo cuantificar la superficie de la laguna de Yahuarcocha con alta precisión y realizar un análisis multitemporal.
 
 ## Estructura del Código
 * `src/preprocessing.py`: Generación de máscaras y dataset (Tiling).
