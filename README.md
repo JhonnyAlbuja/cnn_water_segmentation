@@ -1,4 +1,4 @@
-# cnn_water_segmentation
+# Segmentación de Superﬁcies Acuáticas en Imágenes Satelitales mediante Redes Neuronales Convolucionales: Aplicación en Yahuarcocha
 Código fuente para la segmentación de cuerpos de agua en imágenes satelitales (PlanetScope) mediante U-Net. 
 
 ## Descripción
